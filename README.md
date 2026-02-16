@@ -1,9 +1,11 @@
 ⏰ Digital Clock Using Arduino
+---------------------------------------------------------------------------------------------
 
 A simple digital clock built using Arduino Uno and a 16x2 LCD display, capable of displaying real-time hours, minutes, and seconds.
 
+---------------------------------------------------------------------------------------------
 📌 Project Overview
-
+---------------------------------------------------------------------------------------------
 This project demonstrates how to create a digital clock using:
 
 🟦 Arduino Uno
@@ -14,7 +16,9 @@ This project demonstrates how to create a digital clock using:
 
 The clock updates every second and displays time in HH:MM:SS format.
 
+---------------------------------------------------------------------------------------------
 🛠 Components Required
+---------------------------------------------------------------------------------------------
 
 | Component                    | Quantity  |
 | ---------------------------- | --------- |
@@ -25,8 +29,12 @@ The clock updates every second and displays time in HH:MM:SS format.
 | Jumper Wires                 | As needed |
 | (Optional) DS3231 RTC Module | 1         |
 
-🔌 Circuit Connections (Without RTC)
+---------------------------------------------------------------------------------------------
+
+🔌 Circuit Connections 
+---------------------------------------------------------------------------------------------
 LCD (4-bit Mode)
+
 | LCD Pin | Arduino Pin          |
 | ------- | -------------------- |
 | RS      | 12                   |
@@ -42,10 +50,9 @@ LCD (4-bit Mode)
 | LED+    | 5V (via 220Ω)        |
 | LED-    | GND                  |
 
-
-
-
+---------------------------------------------------------------------------------------------
 🎯 Features
+---------------------------------------------------------------------------------------------
 
 🟦 24-hour time format
 
@@ -55,6 +62,7 @@ LCD (4-bit Mode)
 
 🟦 Beginner-friendly project
 
+---------------------------------------------------------------------------------------------
 
 🚀 Future Improvements
 
@@ -67,3 +75,10 @@ LCD (4-bit Mode)
 🟦 Add buttons to set time
 
 🟦 Add 12-hour AM/PM format
+
+---------------------------------------------------------------------------------------------
+🧪 Simulation platform 
+---------------------------------------------------------------------------------------------
+Tinkercad Circuits 🟢💻⚡
+
+---------------------------------------------------------------------------------------------
