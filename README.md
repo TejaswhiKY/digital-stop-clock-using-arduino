@@ -91,6 +91,7 @@ An Arduino-based Digital Stopwatch is an embedded system project that measures a
 
 🟦 Develop a mobile app interface using Bluetooth module (HC-05).
 
+
 ---------------------------------------------------------------------------------------------
 🧪 Simulation platform 
 ---------------------------------------------------------------------------------------------
